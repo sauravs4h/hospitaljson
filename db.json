@@ -1,0 +1,57 @@
+{
+  
+  "users": [
+    {
+      "username": "saurav",
+      "useremail": "sauravs4h@gmail.com",
+      "userpassword": "saurav",
+      "isdoctor": true,
+      "id": 1
+    },
+    {
+      "username": "saurav",
+      "useremail": "sauravs4v@gmail.com",
+      "userpassword": "saurav",
+      "isdoctor": false,
+      "id": 2
+    },
+    {
+      "username": "saurav",
+      "useremail": "wefwef@gmail.com",
+      "userpassword": "deswe",
+      "isdoctor": false,
+      "id": 3
+    },
+    {
+      "username": "",
+      "useremail": "",
+      "userpassword": "",
+      "isdoctor": false,
+      "id": 4
+    }
+  ],
+  "appointments": [
+    {
+      "name": "saurav",
+      "image": "https://www.infoknocks.com/wp-content/uploads/2020/04/Saurav-Sharma-news-anchor.jpg",
+      "specialization": "heart",
+      "experience": "10",
+      "location": "jaipur",
+      "date": "2023-05-25",
+      "slots": "8",
+      "fee": "430",
+      "id": 1
+    },
+    {
+      "name": "gaurav",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dr_Gaurav_Sharma.jpg",
+      "specialization": "head",
+      "experience": "5",
+      "location": "jaipur",
+      "date": "2023-05-25",
+      "slots": "3",
+      "fee": "210",
+      "id": 2
+    }
+  ]
+}

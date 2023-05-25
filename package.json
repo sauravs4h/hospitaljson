@@ -1,0 +1,23 @@
+{
+  "name": "hospitaljson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravs4h/hospitaljson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravs4h/hospitaljson/issues"
+  },
+  "homepage": "https://github.com/sauravs4h/hospitaljson#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
