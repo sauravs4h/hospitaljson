@@ -1,55 +1,35 @@
 {
-  "users": [
+  "freelancers": [
     {
-      "username": "saurav",
-      "useremail": "sauravs4h@gmail.com",
-      "userpassword": "saurav",
-      "isdoctor": true,
+      "name": "Saurav  sharma",
+      "image": "https://s3.ap-south-1.amazonaws.com/modelfactory.in/upload/2021/Apr/20/artist_profile_image/b637fd5fa4339cddc4a0f31038da1224.jpg",
+      "email": "sauravs4h@gmail.com",
+      "password": "saurav",
+      "profession": "Web Developer",
+      "skills": [
+        "html",
+        "css",
+        "js",
+        "node"
+      ],
+      "rate": "1300",
+      "booking_status": false,
       "id": 1
     },
     {
-      "username": "saurav",
-      "useremail": "sauravs4v@gmail.com",
-      "userpassword": "saurav",
-      "isdoctor": false,
-      "id": 2
-    },
-    {
-      "username": "saurav",
-      "useremail": "wefwef@gmail.com",
-      "userpassword": "deswe",
-      "isdoctor": false,
-      "id": 3
-    },
-    {
-      "username": "",
-      "useremail": "",
-      "userpassword": "",
-      "isdoctor": false,
-      "id": 4
-    }
-  ],
-  "appointments": [
-    {
-      "name": "saurav",
-      "image": "https://www.infoknocks.com/wp-content/uploads/2020/04/Saurav-Sharma-news-anchor.jpg",
-      "specialization": "heart",
-      "experience": "10",
-      "location": "jaipur",
-      "date": "2023-05-25",
-      "slots": "8",
-      "fee": "430",
-      "id": 1
-    },
-    {
-      "name": "gaurav",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dr_Gaurav_Sharma.jpg",
-      "specialization": "head",
-      "experience": "5",
-      "location": "jaipur",
-      "date": "2023-05-25",
-      "slots": "3",
-      "fee": "210",
+      "name": "gaurav  sharma",
+      "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/b1cd8f197a5c4637c40dd9c9eb2621d23ae183be/Uber-Chill-XL-UB-XL1-Personal-12-Can-Mini-Fridge-9L-Capacity.jpg?imwidth=480&impolicy=medium",
+      "email": "gauravs4h@gmail.com",
+      "password": "saurav",
+      "profession": "Web Developer",
+      "skills": [
+        "html",
+        "java",
+        "dsa",
+        "js"
+      ],
+      "rate": "800",
+      "booking_status": false,
       "id": 2
     }
   ]
